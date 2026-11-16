@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "video-fullscreen-secure-repro",
+    "slug": "video-fullscreen-secure-repro",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.videofullscreensecurerepro"
+    },
+    "plugins": [
+      "expo-video"
+    ]
+  }
+}
